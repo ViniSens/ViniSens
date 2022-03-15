@@ -1,16 +1,21 @@
-### Hi there 👋
+### Um pouco sobre mim... 👋
 
-<!--
-**ViniSens/ViniSens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤔 Explorando novas tecnologias e desenvolvendo soluções de software. 🎓 Estudando Analise e desenvolvimento de sistemas no Senai Norte I - JOINVILLE. 💼 Buscando uma oportunidade como **DESENVOLVEDOR ** 🌱 Aprendendo mais sobre Node.js, React, React Native.
 
-Here are some ideas to get you started:
+🚀 Minhas Skills Comunicativo, Proativo, Pontual, Trabalho em equipe e Atencioso
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📂 Aplicações e Dados
+
+Java, JavaScript, HTML5, CSS, MySQL e POSTGRESQL.
+
+🛠️ Frameworks
+
+JPA (Java Persistence API), Bootstrap 5 e jQuery
+
+🌐 Versionamento de código
+
+Git, GitHub
+
+✏️ Ferramentas de Desenvolvimento
+
+Visual Studio Code, Eclipse
